@@ -18,7 +18,7 @@ class ReadHtmlCacheBehavior {
     public function run(&$params){
         // 开启静态缓存
         if(IS_GET && C('HTML_CACHE_ON'))  {
-            $cacheTime = $this->requireHtmlCache();
+            $cacheTime = $this->requireHtmlCache();//常量HTML_FILE_NAME是在这个方法中设置的
             if( false !== $cacheTime && $this->checkHTMLCache(HTML_FILE_NAME,$cacheTime)) { //静态页面有效
                 // 读取静态页面输出
                 echo Storage::read(HTML_FILE_NAME,'html');

@@ -12,7 +12,7 @@
  * $Id: index.php   2015-08-10  IT宇宙人 $
  */
 
-// 应用入口文件
+// 应用入口文件，开启缓冲，利于压缩
 if (extension_loaded('zlib')) {
     ob_end_clean();
     ob_start('ob_gzhandler');
