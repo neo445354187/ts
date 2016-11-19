@@ -1,0 +1,24 @@
+[ 2016-11-19T12:43:18+08:00 ] 127.0.0.1 /ts/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ts
+
+[ 2016-11-19T12:43:27+08:00 ] 127.0.0.1 /Public/upload/ad/2016/09-27/57ea1234b3155.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-19T12:43:27+08:00 ] 127.0.0.1 /Public/upload/ad/2016/09-27/57ea11ebc25e4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-11-19T12:43:27+08:00 ] 127.0.0.1 /Public/upload/ad/2016/09-27/57ea1214a4bb8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Public
+

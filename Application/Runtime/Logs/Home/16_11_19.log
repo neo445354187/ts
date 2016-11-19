@@ -1,0 +1,79 @@
+[ 2016-11-19T12:32:43+08:00 ] 127.0.0.1 /ts/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+
+[ 2016-11-19T12:42:42+08:00 ] 127.0.0.1 /ts/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+
+[ 2016-11-19T12:42:43+08:00 ] 127.0.0.1 /ts/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+
+[ 2016-11-19T12:42:55+08:00 ] 127.0.0.1 /ts/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+
+[ 2016-11-19T12:42:55+08:00 ] 127.0.0.1 /ts/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+
+[ 2016-11-19T12:43:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+
+[ 2016-11-19T12:43:28+08:00 ] 127.0.0.1 /index.php?m=Home&c=Cart&a=header_cart_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' D:\WWW\ts\Application\Home\Logic\CartLogic.class.php 第 160 行.
+NOTIC: [8] Undefined index: user_id D:\WWW\ts\Application\Home\Logic\CartLogic.class.php 第 160 行.
+NOTIC: [8] Use of undefined constant user_id - assumed 'user_id' D:\WWW\ts\Application\Home\Logic\CartLogic.class.php 第 168 行.
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [8] Undefined offset: 0 D:\WWW\ts\ThinkPHP\Library\Think\Db\Driver.class.php 第 113 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\ts\Application\Home\Logic\CartLogic.class.php 第 174 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.015600s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant num - assumed 'num' D:\WWW\ts\Application\Runtime\Cache\Home\fb4a9ff6a7ee6538416cd11436248c35.php 第 44 行.
+NOTIC: [8] Use of undefined constant total_fee - assumed 'total_fee' D:\WWW\ts\Application\Runtime\Cache\Home\fb4a9ff6a7ee6538416cd11436248c35.php 第 48 行.
+NOTIC: [8] Use of undefined constant anum - assumed 'anum' D:\WWW\ts\Application\Runtime\Cache\Home\fb4a9ff6a7ee6538416cd11436248c35.php 第 57 行.
+NOTIC: [8] Undefined index: anum D:\WWW\ts\Application\Runtime\Cache\Home\fb4a9ff6a7ee6538416cd11436248c35.php 第 57 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.085000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.085000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

@@ -1,0 +1,1356 @@
+[ 2016-11-01T11:14:11+08:00 ] 127.0.0.1 /index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.002000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:14:12+08:00 ] 127.0.0.1 /index.php/Admin/Admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: login D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:14:12+08:00 ] 127.0.0.1 /index.php/Admin/Admin/vertify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: vertify D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:14:18+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=vertify&r=95
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: vertify D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:14:23+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Admin&a=login&t=0.6831551313817423
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: login D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+
+[ 2016-11-01T11:14:23+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.002000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-11-01T11:14:24+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: welcome D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+NOTIC: [8] Undefined index: version D:\WWW\ts\Application\Admin\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:14:24+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: login_task D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+NOTIC: [8] Use of undefined constant order_id - assumed 'order_id' D:\WWW\ts\Application\Common\Common\common.php 第 949 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:14:35+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:14:41+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: spec D:\WWW\ts\Application\Runtime\Cache\Admin\888957ff0b9851b5e5311f108162ab9b.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:14:48+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:14:57+08:00 ] 127.0.0.1 /index.php/Admin/Tools/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:14:57+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:15:08+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Plugin&a=install&type=payment&code=unionpay&install=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: install D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+
+[ 2016-11-01T11:15:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:15:12+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: login_task D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\ts\Application\Admin\Controller\SystemController.class.php 第 246 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:15:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: welcome D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+NOTIC: [8] Undefined index: version D:\WWW\ts\Application\Admin\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:15:21+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: bank_code D:\WWW\ts\Application\Admin\Controller\PluginController.class.php 第 202 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:15:23+08:00 ] 127.0.0.1 /index.php?m=Admin&c=Plugin&a=install&type=payment&code=unionpay&install=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: install D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+NOTIC: [8] Undefined index: bank_code D:\WWW\ts\Application\Admin\Controller\PluginController.class.php 第 93 行.
+
+[ 2016-11-01T11:15:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:15:25+08:00 ] 127.0.0.1 /index.php/Admin/System/login_task
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: login_task D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\WWW\ts\Application\Admin\Controller\SystemController.class.php 第 246 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:15:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/welcome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: welcome D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+NOTIC: [8] Undefined index: version D:\WWW\ts\Application\Admin\Controller\IndexController.class.php 第 61 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:15:28+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:15:30+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: spec D:\WWW\ts\Application\Runtime\Cache\Admin\888957ff0b9851b5e5311f108162ab9b.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:15:52+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001001s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:15:53+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: spec D:\WWW\ts\Application\Runtime\Cache\Admin\888957ff0b9851b5e5311f108162ab9b.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:16:01+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T11:16:04+08:00 ] 127.0.0.1 /index.php/Admin/Tools/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:16:05+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T11:16:07+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: spec D:\WWW\ts\Application\Runtime\Cache\Admin\888957ff0b9851b5e5311f108162ab9b.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T18:20:27+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: spec D:\WWW\ts\Application\Runtime\Cache\Admin\888957ff0b9851b5e5311f108162ab9b.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T18:20:27+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: spec D:\WWW\ts\Application\Runtime\Cache\Admin\888957ff0b9851b5e5311f108162ab9b.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T18:20:30+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T18:20:34+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: spec D:\WWW\ts\Application\Runtime\Cache\Admin\888957ff0b9851b5e5311f108162ab9b.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T18:21:45+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T18:22:04+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: spec D:\WWW\ts\Application\Runtime\Cache\Admin\888957ff0b9851b5e5311f108162ab9b.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T18:24:01+08:00 ] 127.0.0.1 /index.php/Admin/Article/articleList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: articleList D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Use of undefined constant cat_id - assumed 'cat_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 136 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+NOTIC: [8] Undefined index: kewords D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 166 行.
+NOTIC: [8] Use of undefined constant is_open - assumed 'is_open' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 168 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' D:\WWW\ts\Application\Runtime\Cache\Admin\8f8f9e924fef2f7f19573b72163671c0.php 第 175 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T18:24:02+08:00 ] 127.0.0.1 /index.php/Admin/Article/categoryList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: categoryList D:\WWW\ts\Application\Admin\Common\function.php 第 47 行.
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Undefined index:  D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+NOTIC: [8] Use of undefined constant level - assumed 'level' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 164 行.
+NOTIC: [8] Undefined index: is_leaf D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 165 行.
+NOTIC: [8] Use of undefined constant cat_type - assumed 'cat_type' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 167 行.
+NOTIC: [8] Use of undefined constant show_in_nav - assumed 'show_in_nav' D:\WWW\ts\Application\Runtime\Cache\Admin\acfa4e51b277156860932c3efee2792e.php 第 170 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T18:24:09+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-11-01T18:26:15+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-11-01T18:26:20+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/alipayMobile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: spec D:\WWW\ts\Application\Runtime\Cache\Admin\888957ff0b9851b5e5311f108162ab9b.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-11-01T18:26:23+08:00 ] 127.0.0.1 /index.php/Admin/Plugin/setting/type/payment/code/unionpay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_begin ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000000s ]
+INFO: [ view_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: spec D:\WWW\ts\Application\Runtime\Cache\Admin\888957ff0b9851b5e5311f108162ab9b.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

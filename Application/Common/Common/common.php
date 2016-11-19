@@ -749,11 +749,11 @@ function orderBtn($order_id = 0, $order = array())
 
     /**
      *  订单用户端显示按钮
-    去支付     AND pay_status=0 AND order_status=0 AND pay_code ! ="cod"
-    取消按钮  AND pay_status=0 AND shipping_status=0 AND order_status=0
-    确认收货  AND shipping_status=1 AND order_status=0
-    评价      AND order_status=1
-    查看物流  if(!empty(物流单号))
+     *  去支付     AND pay_status=0 AND order_status=0 AND pay_code ! ="cod"
+     *  取消按钮  AND pay_status=0 AND shipping_status=0 AND order_status=0
+     *  确认收货  AND shipping_status=1 AND order_status=0
+     *  评价      AND order_status=1
+     *  查看物流  if(!empty(物流单号))
      */
     $btn_arr = array(
         'pay_btn'      => 0, // 去支付按钮
